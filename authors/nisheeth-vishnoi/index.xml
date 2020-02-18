@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nisheeth Vishnoi | Anay Mehrotra</title>
+    <link>/authors/nisheeth-vishnoi/</link>
+      <atom:link href="/authors/nisheeth-vishnoi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nisheeth Vishnoi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nisheeth Vishnoi</title>
+      <link>/authors/nisheeth-vishnoi/</link>
+    </image>
+    
+    <item>
+      <title>Interventions for Ranking in the Presence of Implicit Bias</title>
+      <link>/publication/celis-2019-implicit/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/celis-2019-implicit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Controlling Discrimination in Online Ad Auctions</title>
+      <link>/publication/celis-2019-toward/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/celis-2019-toward/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

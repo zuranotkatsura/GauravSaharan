@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arts | Anay Mehrotra</title>
+    <link>/art/</link>
+      <atom:link href="/art/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Arts</title>
+      <link>/art/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/art/1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/art/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/art/2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/art/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/art/3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/art/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/art/4/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/art/4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Anay Mehrotra</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Anay Mehrotra</title>
+      <link>/authors/anay-mehrotra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/anay-mehrotra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisa Celis</title>
+      <link>/authors/elisa-celis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/elisa-celis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nisheeth Vishnoi</title>
+      <link>/authors/nisheeth-vishnoi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/nisheeth-vishnoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a senior year undergraduate at &lt;a href=&#34;https://www.iitk.ac.in/&#34;&gt;IIT Kanpur&lt;/a&gt; majoring in Computer Science. I am interested in problems in &lt;a href=&#34;&#34;&gt;machine learning&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;theoretical computer science&lt;/a&gt; with &lt;a href=&#34;&#34;&gt;real-world applications&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Currently, I am pursuing a project with &lt;a href=&#34;https://www.cse.iitk.ac.in/users/rtewari/&#34;&gt;Prof. Raghunath Tewari&lt;/a&gt; at IIT Kanpur, where I am working on applications of &lt;a href=&#34;http://www.tcs.tifr.res.in/~prahladh/teaching/2011-12/comm/&#34;&gt;communication complexity&lt;/a&gt; to &lt;a href=&#34;https://people.cs.umass.edu/~mcgregor/papers/13-graphsurvey.pdf&#34;&gt;streaming graph-algorithms&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Prior to this, I was working with &lt;a href=&#34;http://www.cs.yale.edu/homes/vishnoi/Home.html&#34;&gt;Prof. Nisheeth Vishnoi&lt;/a&gt; and &lt;a href=&#34;https://datascienceethics.org/elisacelis/&#34;&gt;Prof. Elisa Celis&lt;/a&gt; on &lt;a href=&#34;http://cs.yale.edu/bias/&#34;&gt;fairness in machine learning&lt;/a&gt; and &lt;a href=&#34;http://cs.yale.edu/bias/blog/jekyll/update/2019/02/08/fair-advertising.html&#34;&gt;auction mechanisms&lt;/a&gt; at &lt;a href=&#34;https://yale.edu&#34;&gt;Yale University&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
